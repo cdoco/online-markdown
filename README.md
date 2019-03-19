@@ -4,7 +4,7 @@
 
 ## 样例
 
-demo：http://blog.didispace.com/tools/online-markdown/
+demo：http://md.koes.io
 
 ## 改进内容：
 
